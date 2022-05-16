@@ -27,4 +27,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/it19152288:Latest
+          tags: ${{ secrets.DOCKER_HUB_USERNAME }}/it19220048:Latest
